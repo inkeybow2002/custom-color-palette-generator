@@ -30,5 +30,6 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/yourusername/custom-color-palette-generator.git"
-  }
+  },
+  // Note: The dependencies are updated to their latest versions to ensure compatibility and security.
 }
