@@ -26,5 +26,9 @@
     "web"
   ],
   "author": "Your Name",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/custom-color-palette-generator.git"
+  }
 }
