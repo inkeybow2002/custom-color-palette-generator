@@ -18,7 +18,13 @@
     "react-scripts": "^4.0.0"
   },
   "devDependencies": {},
-  "keywords": [],
+  "keywords": [
+    "color",
+    "palette",
+    "design",
+    "customization",
+    "web"
+  ],
   "author": "Your Name",
   "license": "MIT"
 }
